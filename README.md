@@ -1,2 +1,1 @@
-# html-css-template-1
-learning to create template
+https://hritikrommie.github.io/html-css-template-1/
